@@ -1,3 +1,5 @@
+> **Moved:** this repository is now part of [wand125/square-packing](https://github.com/wand125/square-packing/tree/main/problems/n17/b2-classes-20261005) (`problems/n17/b2-classes-20261005/`). This copy is archived; every path is mapped in `MOVED.json`, and old links, commits and releases keep working.
+
 # n17 sub-pattern certificates
 
 Certificates for the n = 17 sub-pattern branch and bound of [jlevy/squares](https://github.com/jlevy/squares), hosted outside that repository as its operating rule OR-18 asks for bulk data. The certificate objects are release assets of this repository. Each directory here holds the hosted-data manifest entries (path, asset, size, SHA-256) for one release, and a summary of the run.

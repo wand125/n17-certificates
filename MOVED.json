@@ -1,0 +1,38 @@
+{
+ "schema": "moved/v1",
+ "old_repository": "wand125/n17-certificates",
+ "old_head": "1d79e0f3202cddc7b1af416607574d3c297e2ae4",
+ "new_repository": "wand125/square-packing",
+ "note": "Every path of the old repository at old_head and where it lives now: 'new' is a path in the new repository's git tree (documents, code, metadata); 'new_release' is a release asset (certificate data) with the path inside it. The old repository is archived (read-only); its history and releases remain available.",
+ "paths": [
+  {
+   "old": "README.md",
+   "new": "problems/n17/b2-classes-20261005/README.md"
+  },
+  {
+   "old": "b2-classes/C1-summary.json",
+   "new": "problems/n17/b2-classes-20261005/C1-summary.json"
+  },
+  {
+   "old": "b2-classes/C2-summary.json",
+   "new": "problems/n17/b2-classes-20261005/C2-summary.json"
+  },
+  {
+   "old": "b2-classes/manifest-C1.yaml",
+   "new": "problems/n17/b2-classes-20261005/manifest-C1.yaml"
+  },
+  {
+   "old": "b2-classes/manifest-C2.yaml",
+   "new": "problems/n17/b2-classes-20261005/manifest-C2.yaml"
+  }
+ ],
+ "releases": [
+  {
+   "old_tag": "b2-classes-20261005",
+   "old_url": "https://github.com/wand125/n17-certificates/releases/tag/b2-classes-20261005",
+   "new_tag": null,
+   "mirror": "none (approved: keep the original release, referenced here)",
+   "note": "552 objects, see manifest-C1.yaml / manifest-C2.yaml"
+  }
+ ]
+}
